@@ -1,6 +1,29 @@
 {
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdeschat/Team_profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdeschat/Team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/jdeschat/Team_profile_generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "jest": "^29.3.1"
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
