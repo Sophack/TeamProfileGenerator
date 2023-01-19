@@ -1,7 +1,7 @@
 {
-  "name": "team_profile_generator",
+  "name": "teamprofgen",
   "version": "1.0.0",
-  "description": "",
+  "description": "generates team members according to their positions",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,19 +11,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jdeschat/Team_profile_generator.git"
+    "url": "git+https://github.com/Sophack/teamProfGen.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jdeschat/Team_profile_generator/issues"
+    "url": "https://github.com/Sophack/teamProfGen/issues"
   },
-  "homepage": "https://github.com/jdeschat/Team_profile_generator#readme",
+  "homepage": "https://github.com/Sophack/teamProfGen#readme",
   "dependencies": {
     "inquirer": "^8.2.4",
-    "path": "^0.12.7"
+    "jest": "^29.3.1"
   },
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "keywords": []
 }

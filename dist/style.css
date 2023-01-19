@@ -1,6 +1,6 @@
 header {
     color: white;
-    background-color: rgba(255, 0, 0, 0.591);
+    background-color: rgba(209, 83, 83, 0.839);
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -23,7 +23,7 @@ main{
 
 .card-header {
     color: white;
-    background-color: rgba(0, 0, 255, 0.584);
+    background-color: rgba(59, 59, 141, 0.584);
 
 }
 
@@ -31,12 +31,11 @@ main{
     color: black;
 }
 
-/* MAKE IT ALL ON ONE LINE AND SMALLER */
 .list-group-item {
     white-space: nowrap;
     overflow: visible;
 }
 
 #email {
-    color:rgba(0, 0, 255, 0.584);
+    color:rgba(94, 94, 225, 0.584);
 }
