@@ -9,7 +9,7 @@ const generateTeam = (team) => {
         <div class="card" style="width: 18rem;">
             <div class="card-header">
            ${manager.name} <br/>
-           <i class="fas fa-mug-hot"></i>Manager</div>
+           <i class="fas fa-briefcase"></i> Manager</div>
            <ul class="list-group list-group-flush">
             <li class="list-group-item">ID: ${manager.id}</li>
             <li class="list-group-item">Email: <span id="email"><a href="mailto:${manager.email}">${manager.email}</a></span></li>
@@ -25,7 +25,7 @@ const generateTeam = (team) => {
         <div class="card" style="width: 18rem;">
             <div class="card-header">
            ${engineer.name} <br/>
-           <i class="fas fa-glasses"></i>Engineer</div>
+           <i class="fas fa-pen-nib"></i> Engineer</div>
            <ul class="list-group list-group-flush">
             <li class="list-group-item">ID: ${engineer.id}</li>
             <li class="list-group-item">Email: <span id="email"><a href="mailto:${engineer.email}">${engineer.email}</a></span></li>
@@ -41,7 +41,7 @@ const generateTeam = (team) => {
         <div class="card" style="width: 18rem;">
             <div class="card-header">
            ${intern.name} <br/>
-           <i class="fas fa-user-graduate"></i>Intern</div>
+           <i class="fas fa-pen"></i> Intern</div>
            <ul class="list-group list-group-flush">
             <li class="list-group-item">ID: ${intern.id}</li>
             <li class="list-group-item">Email: <span id="email"><a href="mailto:${intern.email}">${intern.email}</a></span></li>
@@ -86,7 +86,7 @@ module.exports = team => {
 </head>
 <body>
     <header>
-    <h1> My Team </h1>
+    <h1>My Team <i class="fas fa-globe"></i> </h1>
     </header>
 
     <main> ${generateTeam(team)} </main>
@@ -95,3 +95,4 @@ module.exports = team => {
 </html>
     `;
 }
+
