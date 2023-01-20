@@ -46,8 +46,8 @@ Once the user goes through the appropriate prompts an HTML file is generated con
 This application is rendered under MIT
 
 ## Contributors
-*To contribute clone this repo locally and commit your code on a separate branch!
-*Please follow standard guidelines at: [Contributor Covenant](https://www.contributor-covenant.org/) 
+* To contribute clone this repo locally and commit your code on a separate branch!
+* Please follow standard guidelines at: [Contributor Covenant](https://www.contributor-covenant.org/) 
 
 ## Tests
 The command ```npm run test``` should show the following 
