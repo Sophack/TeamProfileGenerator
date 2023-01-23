@@ -63,7 +63,10 @@ The command ```npm run test``` should show the following
 - Inquirer
 - Path
 - Jest
-- Prettier (plugin for code formatting ) 
+- Prettier (plugin for code formatting) 
+
+## Demonstration
+In order to view the functionality please watch the video [here](https://github.com/Sophack/TeamProfileGenerator/blob/main/TeamProfileGen%20Video.mp4)
 
 ## Questions
 
