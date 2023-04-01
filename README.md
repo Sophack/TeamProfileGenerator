@@ -66,7 +66,7 @@ The command ```npm run test``` should show the following
 - Prettier (plugin for code formatting) 
 
 ## Demonstration
-In order to view the functionality please watch the video [here](https://github.com/Sophack/TeamProfileGenerator/blob/main/teamProfGenFuncVid.webm)
+In order to view the functionality please watch the video [here](https://github.com/Sophack/TeamProfileGenerator/tree/main/videoFunctionality)
 
 ## Questions
 
