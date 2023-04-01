@@ -14,6 +14,7 @@ The team profile generator is an app that uses basic information about employees
 - [Contributors](#contributors)
 - [Tests](#tests)
 - [Technology Used](#technology-used)
+- [Demonstration](#demonstration)
 - [Questions](#questions)
 
 ## Installation
