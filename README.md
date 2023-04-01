@@ -70,7 +70,7 @@ In order to view the functionality please watch the video [here](https://github.
 
 ## Questions
 
-My Github username is sophack, which can be accessed here https://github.com/sophack/TeamProfileGenerator.
+My Github username is sophack, which can be accessed here https://github.com/Sophack/TeamProfileGenerator/blob/main/teamProfGenFuncVid.webm.
 
 Follow me for more projects!
   
